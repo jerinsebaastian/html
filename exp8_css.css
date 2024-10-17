@@ -1,0 +1,15 @@
+p{
+	color:lightblue;
+	background-color:darkred;
+	padding:10px;
+}
+.style1{
+	color:blue;
+	background-color:lightyellow;
+	padding:10px;
+}
+#style2{
+	color:white;
+	background-color:darkgreen;
+	padding:10px;
+}
